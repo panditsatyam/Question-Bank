@@ -4,7 +4,7 @@ const Footer = () => {
     const originalDsaSheetLink =
         'https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/'
     const originalAuthorLinkedInLink = 'https://in.linkedin.com/in/rajarvp'
-    const gitHubLink = 'https://github.com/aditya-190/a2zdsa'
+    const gitHubLink = 'https://www.linkedin.com/in/satyam-mishra-b5b2b324b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'
 
     return (
         <Flex
@@ -69,7 +69,7 @@ const Footer = () => {
                     fontStyle={'normal'}
                     color={'defaultColor'}
                 >
-                    This Project
+                    Contact me
                 </Text>
             </Link>
         </Flex>
